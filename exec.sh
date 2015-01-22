@@ -1,1 +1,1 @@
-./read-file.py MISTRACorr.dat_.txt notes.txt > intelligence.turtle
+./read-file.py MISTRACorr.dat_.txt notes.txt > intelligence.ttl
