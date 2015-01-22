@@ -1,0 +1,42 @@
+1. CAB vocabulary
+2. CAB proverbs
+3. CAB spelling
+4. HB vocabulary
+5. WAIS information
+6. WAIS comprehension 
+7. WAIS vocabulary
+8. WAIS similarities
+9. HB pedigrees
+10. HB raven
+11. HB things categories
+12. HB different uses
+13. WAIS picture completion
+14. WAIS picture arrangement 
+15. WAIS object assembly
+16. CAB memory span
+17. CAB speed of closure
+18. CAB word fluency
+19. HB word beginnings/endings 
+20. WAIS digit span
+21. CAB associative memory
+22. CAB meaningful memory
+23. HB immediate visual memory 
+24. HB delayed visual memory 
+25. CAB perceptual speed
+26. HB identical pictures
+27. HB card rotation
+28. HB cubes
+29. CAB numerical ability
+30. HB subtraction/multiplication 
+31. HB lines and dots
+32. WAIS digit symbol
+33. WAIS arithmetic
+34. CAB spatial ability
+35. Flexibility of closure
+36. CAB mechanical ability
+37. CAB inductive reasoning
+38. HB mental rotation
+39. HB paper formboard
+40. HB hidden patterns
+41. HB paper folding
+42. WAIS block design
